@@ -2,10 +2,8 @@
 Campus360 is a web and mobile platform that provides real-time campus navigation, live event discovery, canteen insights, and an intelligent lost-and-found system to reduce confusion and save time in large campuses.
 # 🏫 Campus360 - Aditya University Campus Navigator
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Hackathon](https://img.shields.io/badge/Hackathon-HackSprint%202K25-blue)](https://)
 
-A comprehensive campus navigation platform built for **Aditya University** as part of **HackSprint 2K25** under **Google DCGC 2.0** in collaboration with **Google Cloud** and **GeeksforGeeks**.
+
 
 ## 🏆 Achievement
 - **Top 40** out of **150+ teams** in HackSprint 2K25
@@ -19,8 +17,8 @@ A comprehensive campus navigation platform built for **Aditya University** as pa
 - **Anti-Spam Protection** for community safety
 
 ## 🚀 Live Demo
-- [Main Website](https://YOUR-USERNAME.github.io/aditya-campus-navigator/)
-- [Interactive Map](https://YOUR-USERNAME.github.io/aditya-campus-navigator/map.html)
+- [Main Website](https://kanaka-suvarchala321.github.io/Campus360/)
+- [Interactive Map](https://kanaka-suvarchala321.github.io/Campus360/map.html)
 
 ## 🛠️ Technologies Used
 - **HTML5**, **CSS3**, **JavaScript**
